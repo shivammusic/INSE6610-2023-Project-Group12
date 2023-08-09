@@ -14,5 +14,5 @@ Submmited to - Prof. Ivan Pustogarov
 - [Shivam Patel](https://github.com/shivammusic)
 - [Ekta Patel](https://github.com/ektapatel2526)
 
-## Demo
+## Preview
 ![App Screenshot](https://raw.githubusercontent.com/shivammusic/INSE6610-2023-Project-Group12/main/Report/6610-GIF.gif)
